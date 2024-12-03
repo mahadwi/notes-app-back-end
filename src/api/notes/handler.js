@@ -57,7 +57,7 @@ class NotesHandler {
 
     return {
       status: 'success',
-      message: 'Catatanberhasil diperbarui',
+      message: 'Catatan berhasil diperbarui',
     };
   }
 
